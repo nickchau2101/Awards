@@ -1,2 +1,2 @@
 # Awards
-![Example Image](Citi.hec).
+![Example Image](Citi.png).
